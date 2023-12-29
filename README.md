@@ -1,5 +1,17 @@
-## Job
-- Software Engineer
+## Job, Role
+---
+- 2014.4 - 2021.6
+  - Product Management, NTT Communications Corporation
+    - Online Storage Product
+- 2021.6 - 2023.5
+  - Software Engineer, NCDC.co.,Ltd,
+    - Construction IoT Product
+    - IT Architecture Consulting
+- 2023.6 - 2023.12
+  - Software Engineer, CyberAgent, Inc.
+    - Ad Network Product(DSP, DMP)
+- 2024.1 - 
+  - Software Engineer, Lazuli Inc.
 
 ## Languages and Tools
 <p align="left"> 
