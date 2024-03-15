@@ -2,6 +2,7 @@
 - 2014.4 - 2021.6
   - Product Management, NTT Communications Corporation
     - Online Storage Product
+    - Audhentication Platform
 - 2021.6 - 2023.5
   - Software Engineer, NCDC.co.,Ltd,
     - Construction IoT Product
@@ -11,6 +12,7 @@
     - Ad Network Product(DSP, DMP)
 - 2024.1 - 
   - Software Engineer, Lazuli Inc.
+    - Product Data Management Platform
 
 ## Languages and Tools
 <p align="left"> 
