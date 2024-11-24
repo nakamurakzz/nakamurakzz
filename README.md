@@ -7,12 +7,11 @@
     - Ad Network Product(DSP, DMP)
 - 2021.6 - 2023.5
   - Software Engineer, NCDC.co.,Ltd,
-    - Construction IoT Product
+    - Construction IoT Platform
     - IT Architecture Consulting
 - 2014.4 - 2021.6
   - Product Management, NTT Communications Corporation
     - Online Storage Product
-    - Audhentication Platform
 
 ## Languages and Tools
 <p align="left"> 
