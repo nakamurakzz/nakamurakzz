@@ -1,5 +1,7 @@
 ## Job, Role, Product
-- 2024.1 - 
+- 2025.6 -
+  - Software Engineer, Freelance
+- 2024.1 - 2025.5
   - Software Engineer, Lazuli Inc.
     - Product Data Management Platform
 - 2023.6 - 2023.12
