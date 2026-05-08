@@ -1,6 +1,6 @@
 ## Job, Role, Product
-- 2025.6 -
-  - Software Engineer, Freelance
+- 2025.8 -
+  - Software Engineer, Knowhere.Inc
 - 2024.1 - 2025.5
   - Software Engineer, Lazuli Inc.
     - Product Data Management Platform
